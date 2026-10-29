@@ -1,4 +1,4 @@
-# Ne pas publier de reglages personnels ou de donnees RPCS3.
+# Do not publish personal settings or RPCS3 data.
 .env*
 config.yml
 *.log*

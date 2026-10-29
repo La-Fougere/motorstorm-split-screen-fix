@@ -1,5 +1,5 @@
 # MotorStorm: Pacific Rift - BCES00129 v01.03
-# Profil RPCS3 pour ecran partage, rendu 1440p.
+# RPCS3 split-screen profile, 1440p rendering.
 Core:
   SPU XFloat Accuracy: Relaxed
 Video:
