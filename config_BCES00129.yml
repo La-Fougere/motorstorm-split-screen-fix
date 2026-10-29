@@ -1,0 +1,16 @@
+# MotorStorm: Pacific Rift - BCES00129 v01.03
+# Profil RPCS3 pour ecran partage, rendu 1440p.
+Core:
+  SPU XFloat Accuracy: Relaxed
+Video:
+  Renderer: Vulkan
+  Resolution: 1280x720
+  Aspect ratio: '16:9'
+  Resolution Scale: 200
+  Anisotropic Filter Override: 0
+  MSAA: Auto
+  Read Color Buffers: true
+  Write Color Buffers: true
+  Shader Mode: Async Recompiler (multi-threaded)
+  Shader Precision: High
+  Strict Rendering Mode: false

@@ -1,0 +1,9 @@
+# Ne pas publier de reglages personnels ou de donnees RPCS3.
+.env*
+config.yml
+*.log*
+*.rrc*
+*.rdc
+backups/
+dev_hdd0/
+dev_flash/
